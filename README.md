@@ -10,9 +10,8 @@ The repository includes the following resources:
 2. [Arrays & Strings](./Basics/arrays-strings.md)
 3. [Matrix](./Basics/matrix.md)
 4. [Rand()](./Random%20exercises/rand()/rand.md)
-5. [Tests](./Tests%20-%20menu,%20files%20&%20functions/tests.md)
 
-* **Tests**: A set of C programming tests covering topics such as string matching, array searching, matrix inversion, menu-driven programs, loops with multiple conditions, and function composition. Each test includes a set of questions and problems. Each tests should be solved within ah hour. You can use these tests to assess your skills in these topics, to simulate real-world programming scenarios, and to challenge yourself.
+* **[Tests](./Tests%20-%20menu,%20files%20&%20functions/tests.md)**: A set of C programming tests covering topics such as string matching, array searching, matrix inversion, menu-driven programs, loops with multiple conditions, and function composition. Each test includes a set of questions and problems. Each tests should be solved within ah hour. You can use these tests to assess your skills in these topics, to simulate real-world programming scenarios, and to challenge yourself.
 
 <br>
 <br>
